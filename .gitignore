@@ -1,0 +1,10 @@
+tmp/*
+.DS_Store
+*__pycache__*
+model/*
+data/OpenCorpora/*
+data/NKRY/*
+data/GIKRY/*
+data/UD/*
+*.zip
+.vscode/*
